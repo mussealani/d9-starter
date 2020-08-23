@@ -1,20 +1,18 @@
-uuid: 3385a234-f5bb-4cbe-a289-2752403b04ee
+uuid: 756093e7-93c9-4b56-9117-7a5385f177ca
 langcode: en
 status: true
 dependencies:
   theme:
     - seven
-id: tabs
+id: pagetitle
 theme: seven
 region: header
-weight: 0
+weight: -1
 provider: null
-plugin: local_tasks_block
+plugin: page_title_block
 settings:
-  id: local_tasks_block
-  label: Tabs
+  id: page_title_block
+  label: 'Page title'
   provider: core
   label_display: '0'
-  primary: true
-  secondary: true
 visibility: {  }
