@@ -5,6 +5,7 @@ core_version_requirement: '^8.8 || ^9'
 version: 1.0
 dependencies:
   # Contrib modules
+  - admin_toolbar
   - metatag
   - redirect
   - token
