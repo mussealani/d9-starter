@@ -1,14 +1,14 @@
-uuid: c34288ed-fbed-4205-8535-aec50cf6f5e4
+uuid: ce777c51-cd7a-4f9a-8073-09d0f614d4dc
 name: 'D9 Starter'
 mail: admin@d9.se
 slogan: ''
 page:
   403: ''
   404: ''
-  front: /node
+  front: /user/login
 admin_compact_mode: false
 weight_select_max: 100
 langcode: en
 default_langcode: en
 _core:
-  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
